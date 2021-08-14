@@ -1,9 +1,12 @@
 ## Olá, eu sou Nacélio, bem-vindo ao meu perfil do GitHub!
 
-
 - 🔭 Estou trabalhando em casa, como estudante procastinador.
 - 🌱 Estudando HTML e CSS.
 - ⚡ Gosto de café.
+
+Sei HTML/CSS, sempre mexendo com algumas coisinhas. 
+
+<a href="https://github.com/1LC7" target="_blank" >Grande ajuda nos projetos</a>
 
 <div>
   <a href="https://github.com/onacelio">
