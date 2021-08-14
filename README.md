@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML e CSS.
 - ⚡ Gosto de café.
 
-Sei HTML/CSS, sempre mexendo com algumas coisinhas. 
+Sei HTML/CSS, sempre aprendendo novas coisinhas. 
 
 <a href="https://github.com/1LC7" target="_blank" >Grande ajuda nos projetos</a>
 
