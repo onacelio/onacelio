@@ -3,7 +3,6 @@
 - 🔭 Estou trabalhando em casa, como estudante procastinador.
 - 🌱 Estudando HTML e CSS.
 - ⚡ Gosto de café.
-- 🔗 Visite meu site: onacelio.github.io/perfilSite/
 
 
 Sei HTML/CSS, sempre aprendendo novas coisinhas. 
