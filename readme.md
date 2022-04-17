@@ -4,11 +4,6 @@
 - 🌱 Estudando HTML e CSS.
 - ⚡ Gosto de café.
 
-
-Sei HTML/CSS, sempre aprendendo novas coisinhas. 
-
-<a href="https://github.com/1LC7" target="_blank" >Grande ajuda nos projetos</a>
-
 <div>
   <a href="https://github.com/onacelio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onacelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
