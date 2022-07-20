@@ -1,7 +1,8 @@
-## Eu sou Nacélio, um estudante procastinador.
+## Olá, eu sou O Nacélio! 
 
-- 🔭 Estou trabalhando em casa, como estudante procastinador.
-- 🌱 Estudando HTML e CSS.
+- 🔭 Ultimamente estou estudando TI, tentando dar o melhor de mim. :)
+- 🌱 Tecnologias que me considero intermediário: JS, HTML e CSS
+- 🌱 Tecnologias que tenho conhecimento básico: Python e PHP
 - ⚡ Gosto de café.
 
 <div>
