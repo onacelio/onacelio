@@ -1,4 +1,4 @@
-# Olá, eu sou O Nacélio! 
+# Hello, I'am The NAcélio! 
 
 - 🔭 Currently studying the 2nd year of the technical course in informatics;
 - 🌱 Studying the front-end development area;
