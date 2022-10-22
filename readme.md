@@ -1,10 +1,11 @@
-## Olá, eu sou O Nacélio! 
+# Olá, eu sou O Nacélio! 
 
-- 🔭 Curso técnico em informática, 2/3;
-- 🌱 Tecnologias que me considero intermediário: JS, HTML e CSS;
-- ⚡ Tecnologias que tenho conhecimento básico: Python e PHP;
+- 🔭 Currently studying the 2nd year of the technical course in informatics;
+- 🌱 Studying the front-end development area;
+- ⚡ Open to new learning in the technology area;
 - ☕ Coffee is life.
 
+## Github Stats:
 <div>
   <a href="https://github.com/onacelio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=onacelio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,6 +14,8 @@
   
   <br>
   
+  
+## Tech Stack:
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,3 +25,6 @@
   
           
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
