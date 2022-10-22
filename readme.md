@@ -1,9 +1,9 @@
 ## Olá, eu sou O Nacélio! 
 
-- 🔭 Ultimamente estou estudando TI, tentando dar o melhor de mim. :)
-- 🌱 Tecnologias que me considero intermediário: JS, HTML e CSS
-- 🌱 Tecnologias que tenho conhecimento básico: Python e PHP
-- ⚡ Gosto de café.
+- 🔭 Curso técnico em informática, 2/3;
+- 🌱 Tecnologias que me considero intermediário: JS, HTML e CSS;
+- ⚡ Tecnologias que tenho conhecimento básico: Python e PHP;
+- ☕ Coffee is life.
 
 <div>
   <a href="https://github.com/onacelio">
@@ -17,6 +17,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
           
