@@ -6,7 +6,7 @@
 
 - 🔭 Currently studying the 3nd year of the technical course in informatics;
 - 🌱 Studying the front-end development area;
-- ⚛ Learn ReactJS;
+- ⚛ Learning ReactJS;
 - ⚡ Open to new learning in the technology area;
 - ☕ Coffee is life.
 
