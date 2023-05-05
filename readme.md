@@ -1,13 +1,13 @@
-# Hello, I'm The Nacélio! 
+# Hello, I'm Nacélio! 
 
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=onacelio.onacelio&"  />
 </div>
 
 - 🔭 Currently studying the 3nd year of the technical course in informatics;
-- 🌱 Studying the front-end development area;
+- 🌱 Studying the front-end and back-end development area;
 - ⚛ Learning ReactJS;
-- ⚡ Open to new learning in the technology area;
+- ⚡ Open to learning new things in the area;
 - ☕ Coffee is life.
 
 ## Github Stats:
