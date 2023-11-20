@@ -1,14 +1,9 @@
 # Hello, I'm Nacélio! 
 
-<div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=onacelio.onacelio&"  />
-</div>
-
-- 🔭 Currently studying the 3nd year of the technical course in informatics;
-- 🌱 Studying the front-end and back-end development area;
-- ⚛ Learning ReactJS;
-- ⚡ Open to learning new things in the area;
-- ☕ Coffee is life.
+- 🔭 IT student;
+- 🌱 Studying the front-end development area;
+- ⚛ Learning NextJS and TS;
+- ⚡ Open to learning new things in the area.
 
 ## Github Stats:
 
@@ -24,5 +19,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mysql" height="30" width-"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" >
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
 </div>
 
