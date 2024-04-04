@@ -7,7 +7,8 @@
 
 ## Github Stats:
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onacelio&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=onacelio&theme=gotham&hide_border=false">
+[![O NAcélio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onacelio&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=onacelio&theme=gotham&hide_border=false">
 
   
 ## Techs and Tools:
