@@ -7,7 +7,7 @@
 
 ## Github Stats:
 
-[![O NAcélio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onacelio&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![O NAcélio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onacelio&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=onacelio&theme=gotham&hide_border=false">
 
   
