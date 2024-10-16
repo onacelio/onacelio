@@ -15,6 +15,13 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onacelio&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" align="top"/>
       </td>
    </tr>
+   <tr>
+      <td>
+         <div style="display: flex; flex-direction: column">
+            <img width="730" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onacelio&theme=midnight_purple" />
+         </div>
+      </td>
+   </tr>
 <table/>
 
   
