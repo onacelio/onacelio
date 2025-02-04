@@ -2,7 +2,7 @@
 
 - 🔭 Coding my life;
 - 🌱 Studying the front-end development area;
-- ⚡ Open to learning new things in the area.
+- ⚡ Open to learning new things in the area;
 
 ## Github Stats:
 
@@ -34,7 +34,7 @@
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="NodeJS"  />
+   <img height="40" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="NodeJS"  />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
