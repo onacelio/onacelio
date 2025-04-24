@@ -16,13 +16,11 @@
       </td>
    </tr>
    <tr>
-      <td>
-         <div style="display: flex; flex-direction: column">
-            <img width="730" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onacelio&theme=midnight_purple" />
-         </div>
+      <td colspan="2
+         <img width="730" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onacelio&theme=midnight_purple" />
       </td>
    </tr>
-<table/>
+</table>
 
   
 ## Techs:
@@ -38,13 +36,13 @@
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" />
 </div>
 
 ## Tools:
 <div align='left'>
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
